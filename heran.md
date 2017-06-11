@@ -20,13 +20,7 @@
 
 2. [Cu/Adhesive Hybrid Bonding at sub-200 °C](/en/Cu-adhesive-hybrid-bonding.md) in [H-containing HCOOH vapor](/sab/h-containing-hcooh-vapor.md) ambient
 
-3. [Glass-Glass Bonding](/en/glass-glass-bonding.md) by [modified SAB](/sab/modified-sab.md) and [sequential plasma activation bonding](/sab/sequential-plasma-activation-bonding.md)
-
-4. [Direct Die Attach](/en/direct-die-attach.md) for high-power device packaging by Cu-Cu and Au-Cu bonding
-
-5. [Cu Microparticles Sintering](/en/cu-microparticles-sintering.md)
-
-6. [Superconductor Joints](/en/superconductor-joints.md) by Cu-Cu bonding
+3. SiO2-SiO2 and [Glass-Glass Bonding](/en/glass-glass-bonding.md) by [modified SAB](/sab/modified-sab.md) and [sequential plasma activation bonding](/sab/sequential-plasma-activation-bonding.md)
 
 ### Technical Assistant, Oct. 2015 — Jun. 2016
 
@@ -50,7 +44,7 @@
 
 **Department of Precision Engineering, School of Engineering, [The University of Tokyo](http://www.pe.t.u-tokyo.ac.jp/en/index.html), Tokyo, Japan**
 
-Supervisor: [Tadamoto Suga](http://www.su.t.u-tokyo.ac.jp/en/03-kyouinn-cv/suga-cv.html)
+Supervisor: Prof. [Tadamoto Suga](http://www.su.t.u-tokyo.ac.jp/en/03-kyouinn-cv/suga-cv.html)
 
 **Thesis**: Combined Surface Activation Approaches to Low-Temperature Wafer Bonding for 3D Integration.
 
@@ -62,7 +56,7 @@ Supervisor: [Tadamoto Suga](http://www.su.t.u-tokyo.ac.jp/en/03-kyouinn-cv/suga-
 
 **[Institute of Microelectronics, Chinese Academy of Sciences (CAS)](http://english.ime.cas.cn), Beijing, China**
 
-Supervisor: Daquan Yu
+Supervisor: Prof. Daquan Yu
 
 **Research Subjects**:
 
